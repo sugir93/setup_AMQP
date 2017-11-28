@@ -1,0 +1,14 @@
+{
+  "name": "setup_amqp",
+  "version": "1.0.0",
+  "description": "This is a example project to setup own AMQP Broker and Application Client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "reachsugir@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.6"
+  }
+}
