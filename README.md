@@ -1,9 +1,9 @@
 # Setup own AMQP Broker and Nodejs Client Application 
 
 # Setup Broker
-Install ERLANG from the following URL.
+Install ERLANG from the following URL\n
         http://www.erlang.org/downloads
-Install RABITMQ from the following URL.
+Install RABITMQ from the following URL\n
         https://www.rabbitmq.com/download.html
 Start the broker after the installation (the broker will be started by default after the installation).
         
